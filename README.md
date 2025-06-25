@@ -39,6 +39,10 @@ Simple timer system created using Arduino UNO, with countdown functionality, pau
 You can view the schematic in the file:  
 📄 [timer-schematic view.pdf](https://github.com/albiecr/timer-arduino/blob/main/timer-schematic%20view.pdf)
 
+The image below shows the circuit assembled on the Tinkercad platform:
+
+![Image](https://github.com/user-attachments/assets/d7bb27b0-3718-4b67-b792-dc6b312b7610)
+
 <h2>🔌 Pin Connections</h2>
 
 | Component         | Arduino Pin |
