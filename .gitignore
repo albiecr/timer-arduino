@@ -1,0 +1,38 @@
+# Compiled object files
+*.o
+*.obj
+
+# Arduino build folder
+*.elf
+*.hex
+*.bin
+*.eep
+
+# Backup files
+*~
+*.bak
+
+# Arduino sketchbook metadata
+.DS_Store
+*.dmp
+*.log
+
+# Windows hidden files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Arduino IDE project files
+*.cpp.d
+*.d
+*.dep
+*.map
+
+# VS Code
+.vscode/
+
+# Arduino CLI build cache
+build/
+
+# PlatformIO
+.pio/
